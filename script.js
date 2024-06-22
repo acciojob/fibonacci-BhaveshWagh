@@ -1,8 +1,8 @@
 function fibonacci(num) {
 // your code here
-	    if (num < 0 || num > 50) {
-        throw new Error("Input should be between 0 and 50 inclusive.");
-    }
+	   //  if (num < 0 || num > 50) {
+    //     throw new Error("Input should be between 0 and 50 inclusive.");
+    // }
 
     if (num === 0) return 0;
     if (num === 1) return 1;
